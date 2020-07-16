@@ -1,0 +1,6 @@
+c:\users\2klab\documents\visual studio 2015\Projects\Tcp_Ip_Server_Prac\TcpIp\bin\Debug\TcpIp.exe.config
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip_Server_Prac\TcpIp\bin\Debug\TcpIp.exe
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip_Server_Prac\TcpIp\bin\Debug\TcpIp.pdb
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip_Server_Prac\TcpIp\obj\Debug\TcpIp.csprojResolveAssemblyReference.cache
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip_Server_Prac\TcpIp\obj\Debug\TcpIp.exe
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip_Server_Prac\TcpIp\obj\Debug\TcpIp.pdb

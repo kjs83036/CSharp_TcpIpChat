@@ -1,0 +1,9 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\bin\Debug\chat_winform_server.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\bin\Debug\chat_winform_server.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\bin\Debug\chat_winform_server.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\obj\Debug\chat_winform_server.csprojResolveAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\obj\Debug\chat_winform_server.Form1.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\obj\Debug\chat_winform_server.Properties.Resources.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\obj\Debug\chat_winform_server.csproj.GenerateResource.Cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\obj\Debug\chat_winform_server.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_server\chat_winform_server\obj\Debug\chat_winform_server.pdb

@@ -1,0 +1,10 @@
+c:\users\2klab\documents\visual studio 2015\Projects\TcpIp_Client\TcpIp_Client\bin\Debug\TcpIp_Client.exe.config
+c:\users\2klab\documents\visual studio 2015\Projects\TcpIp_Client\TcpIp_Client\bin\Debug\TcpIp_Client.exe
+c:\users\2klab\documents\visual studio 2015\Projects\TcpIp_Client\TcpIp_Client\bin\Debug\TcpIp_Client.pdb
+c:\users\2klab\documents\visual studio 2015\Projects\TcpIp_Client\TcpIp_Client\obj\Debug\TcpIp_Client.exe
+c:\users\2klab\documents\visual studio 2015\Projects\TcpIp_Client\TcpIp_Client\obj\Debug\TcpIp_Client.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_Client\TcpIp_Client\bin\Debug\TcpIp_Client.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_Client\TcpIp_Client\obj\Debug\TcpIp_Client.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_Client\TcpIp_Client\obj\Debug\TcpIp_Client.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_Client\TcpIp_Client\bin\Debug\TcpIp_Client.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_Client\TcpIp_Client\bin\Debug\TcpIp_Client.pdb

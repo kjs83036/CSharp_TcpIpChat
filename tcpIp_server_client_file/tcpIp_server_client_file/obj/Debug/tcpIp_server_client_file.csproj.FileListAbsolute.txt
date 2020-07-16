@@ -1,0 +1,6 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\tcpIp_server_client_file\tcpIp_server_client_file\bin\Debug\tcpIp_server_client_file.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\tcpIp_server_client_file\tcpIp_server_client_file\bin\Debug\tcpIp_server_client_file.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\tcpIp_server_client_file\tcpIp_server_client_file\bin\Debug\tcpIp_server_client_file.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\tcpIp_server_client_file\tcpIp_server_client_file\obj\Debug\tcpIp_server_client_file.csprojResolveAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\tcpIp_server_client_file\tcpIp_server_client_file\obj\Debug\tcpIp_server_client_file.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\tcpIp_server_client_file\tcpIp_server_client_file\obj\Debug\tcpIp_server_client_file.pdb

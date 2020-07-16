@@ -1,0 +1,5 @@
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip\Tcp_Ip_Client\bin\Debug\Tcp_Ip_Client.exe.config
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip\Tcp_Ip_Client\bin\Debug\Tcp_Ip_Client.exe
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip\Tcp_Ip_Client\bin\Debug\Tcp_Ip_Client.pdb
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip\Tcp_Ip_Client\obj\Debug\Tcp_Ip_Client.exe
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\Tcp_Ip\Tcp_Ip_Client\obj\Debug\Tcp_Ip_Client.pdb

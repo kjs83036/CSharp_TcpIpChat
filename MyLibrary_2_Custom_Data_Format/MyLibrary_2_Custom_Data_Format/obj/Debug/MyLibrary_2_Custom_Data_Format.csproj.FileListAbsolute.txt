@@ -1,0 +1,6 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_2_Custom_Data_Format\MyLibrary_2_Custom_Data_Format\bin\Debug\MyLibrary_2_Custom_Data_Format.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_2_Custom_Data_Format\MyLibrary_2_Custom_Data_Format\bin\Debug\MyLibrary_2_Custom_Data_Format.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_2_Custom_Data_Format\MyLibrary_2_Custom_Data_Format\obj\Debug\MyLibrary_2_Custom_Data_Format.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_2_Custom_Data_Format\MyLibrary_2_Custom_Data_Format\obj\Debug\MyLibrary_2_Custom_Data_Format.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_2_Custom_Data_Format\MyLibrary_2_Custom_Data_Format\obj\Debug\MyLibrary_2_Custom_Data_Format.csprojAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_2_Custom_Data_Format\MyLibrary_2_Custom_Data_Format\obj\Debug\MyLibrary_2_Custom_Data_Format.csproj.CoreCompileInputs.cache

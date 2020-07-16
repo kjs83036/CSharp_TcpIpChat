@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat_winform_study", "chat_winform_study\chat_winform_study.csproj", "{1E5A6B2C-4DCB-46DD-926A-A781138C32BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat_winform_study_client", "chat_winform_study_client\chat_winform_study_client.csproj", "{9EA05954-9B4D-428D-817F-A90066E68A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5A6B2C-4DCB-46DD-926A-A781138C32BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5A6B2C-4DCB-46DD-926A-A781138C32BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5A6B2C-4DCB-46DD-926A-A781138C32BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5A6B2C-4DCB-46DD-926A-A781138C32BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA05954-9B4D-428D-817F-A90066E68A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA05954-9B4D-428D-817F-A90066E68A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA05954-9B4D-428D-817F-A90066E68A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA05954-9B4D-428D-817F-A90066E68A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

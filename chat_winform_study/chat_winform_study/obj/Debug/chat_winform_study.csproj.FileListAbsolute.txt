@@ -1,0 +1,9 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\bin\Debug\chat_winform_study.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\bin\Debug\chat_winform_study.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\bin\Debug\chat_winform_study.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\obj\Debug\chat_winform_study.csprojResolveAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\obj\Debug\chat_winform_study.Properties.Resources.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\obj\Debug\chat_winform_study.csproj.GenerateResource.Cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\obj\Debug\chat_winform_study.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\obj\Debug\chat_winform_study.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\chat_winform_study\chat_winform_study\obj\Debug\chat_winform_study.Form1.resources

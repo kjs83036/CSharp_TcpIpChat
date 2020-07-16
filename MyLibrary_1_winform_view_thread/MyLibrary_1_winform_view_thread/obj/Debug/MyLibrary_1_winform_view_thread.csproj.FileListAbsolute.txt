@@ -1,0 +1,6 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_1_winform_view_thread\MyLibrary_1_winform_view_thread\bin\Debug\MyLibrary_1_winform_view_thread.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_1_winform_view_thread\MyLibrary_1_winform_view_thread\bin\Debug\MyLibrary_1_winform_view_thread.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_1_winform_view_thread\MyLibrary_1_winform_view_thread\obj\Debug\MyLibrary_1_winform_view_thread.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_1_winform_view_thread\MyLibrary_1_winform_view_thread\obj\Debug\MyLibrary_1_winform_view_thread.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_1_winform_view_thread\MyLibrary_1_winform_view_thread\obj\Debug\MyLibrary_1_winform_view_thread.csprojAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MyLibrary_1_winform_view_thread\MyLibrary_1_winform_view_thread\obj\Debug\MyLibrary_1_winform_view_thread.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+c:\users\2klab\documents\visual studio 2015\Projects\TcpIp_server\TcpIp_server\bin\Debug\TcpIp_server.exe.config
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\TcpIp_server\TcpIp_server\bin\Debug\TcpIp_server.exe
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\TcpIp_server\TcpIp_server\bin\Debug\TcpIp_server.pdb
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\TcpIp_server\TcpIp_server\obj\Debug\TcpIp_server.csprojResolveAssemblyReference.cache
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\TcpIp_server\TcpIp_server\obj\Debug\TcpIp_server.exe
+C:\Users\2klab\Documents\Visual Studio 2015\Projects\TcpIp_server\TcpIp_server\obj\Debug\TcpIp_server.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_server\TcpIp_server\bin\Debug\TcpIp_server.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_server\TcpIp_server\obj\Debug\TcpIp_server.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_server\TcpIp_server\obj\Debug\TcpIp_server.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_server\TcpIp_server\bin\Debug\TcpIp_server.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_server\TcpIp_server\bin\Debug\TcpIp_server.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\TcpIp_server\TcpIp_server\obj\Debug\TcpIp_server.csprojResolveAssemblyReference.cache
